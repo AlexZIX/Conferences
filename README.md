@@ -3,8 +3,9 @@
 
 # Видео выступлений
 1. Системы статического анализа кода - трудности выбора. Heisenbug, 2018, Санкт-Петербург.
+   
 YouTube: https://www.youtube.com/watch?v=KsbBjXP8prQ
-2. Свой распределённый S3 на базе MinIO — практический опыт наступания на грабли. HighLoad++, 2022, Санкт-Петербург.
+3. Свой распределённый S3 на базе MinIO — практический опыт наступания на грабли. HighLoad++, 2022, Санкт-Петербург.
 YouTube: https://www.youtube.com/watch?v=XiJVC9nzAW4
-3. MinIO - что изменилось за год. HighLoad++, 2023, Санкт-Петербург.
+4. MinIO - что изменилось за год. HighLoad++, 2023, Санкт-Петербург.
 RuTube: https://rutube.ru/video/ad523608ed5e786dcee97c187a8e6fbf/
